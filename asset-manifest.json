@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/dag-app/static/js/main.386096d0.chunk.js",
+    "main.js.map": "/dag-app/static/js/main.386096d0.chunk.js.map",
+    "runtime~main.js": "/dag-app/static/js/runtime~main.767b3239.js",
+    "runtime~main.js.map": "/dag-app/static/js/runtime~main.767b3239.js.map",
+    "static/js/2.727ddca6.chunk.js": "/dag-app/static/js/2.727ddca6.chunk.js",
+    "static/js/2.727ddca6.chunk.js.map": "/dag-app/static/js/2.727ddca6.chunk.js.map",
+    "index.html": "/dag-app/index.html",
+    "precache-manifest.9d216c0dda1e27e2d3d240329be154f5.js": "/dag-app/precache-manifest.9d216c0dda1e27e2d3d240329be154f5.js",
+    "service-worker.js": "/dag-app/service-worker.js"
+  }
+}
